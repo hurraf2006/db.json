@@ -1,0 +1,185 @@
+{
+    "skins": [{
+            "price": "13,211 ₽",
+            "rarity": "unusual",
+            "hotprice": true,
+            "articul": "csskin1",
+            "img": "csskin1.png"
+        },
+        {
+            "price": "24,200.64 ₽",
+            "rarity": "unusual",
+            "hotprice": false,
+            "articul": "csskin2",
+            "img": "csskin2.png"
+        },
+        {
+            "price": "17,600.32 ₽",
+            "rarity": "secret",
+            "hotprice": false,
+            "articul": "csskin3",
+            "img": "csskin3.png"
+        },
+        {
+            "price": "8,713.21 ₽",
+            "rarity": "secret",
+            "hotprice": false,
+            "articul": "csskin4",
+            "img": "csskin4.png"
+        },
+        {
+            "price": "2,860.21 ₽",
+            "rarity": "secret",
+            "hotprice": false,
+            "articul": "csskin5",
+            "img": "csskin5.png"
+        },
+        {
+            "price": "2,435.12 ₽",
+            "rarity": "secret",
+            "hotprice": true,
+            "articul": "csskin6",
+            "img": "csskin6.png"
+        },
+        {
+            "price": "2,065.84 ₽",
+            "rarity": "confidential",
+            "hotprice": false,
+            "articul": "csskin7",
+            "img": "csskin7.png"
+        },
+        {
+            "price": "1,986.12 ₽",
+            "rarity": "confidential",
+            "hotprice": false,
+            "articul": "csskin8",
+            "img": "csskin8.png"
+        },
+        {
+            "price": "1,915.12 ₽",
+            "rarity": "confidential",
+            "hotprice": false,
+            "articul": "csskin9",
+            "img": "csskin9.png"
+        },
+        {
+            "price": "1,865.32 ₽",
+            "rarity": "confidential",
+            "hotprice": false,
+            "articul": "csskin10",
+            "img": "csskin10.png"
+        },
+        {
+            "price": "1,765.42 ₽",
+            "rarity": "confidential",
+            "hotprice": false,
+            "articul": "csskin11",
+            "img": "csskin11.png"
+        },
+        {
+            "price": "1,662.12 ₽",
+            "rarity": "restricted",
+            "hotprice": true,
+            "articul": "csskin12",
+            "img": "csskin12.png"
+        },
+        {
+            "price": "1,613.54 ₽",
+            "rarity": "restricted",
+            "hotprice": false,
+            "articul": "csskin13",
+            "img": "csskin13.png"
+        },
+        {
+            "price": "1,457.32 ₽",
+            "rarity": "army",
+            "hotprice": true,
+            "articul": "csskin14",
+            "img": "csskin14.png"
+        },
+        {
+            "price": "63,145.32 ₽",
+            "rarity": "unusual",
+            "hotprice": false,
+            "articul": "csskin15",
+            "img": "csskin15.png"
+        },
+        {
+            "price": "17,654.64 ₽",
+            "rarity": "unusual",
+            "hotprice": false,
+            "articul": "csskin16",
+            "img": "csskin16.png"
+        },
+        {
+            "price": "5,647.11 ₽",
+            "rarity": "unusual",
+            "hotprice": false,
+            "articul": "csskin17",
+            "img": "csskin17.png"
+        },
+        {
+            "price": "4,658.64 ₽",
+            "rarity": "confidential",
+            "hotprice": false,
+            "articul": "csskin18",
+            "img": "csskin18.png"
+        },
+        {
+            "price": "3,647.34 ₽",
+            "rarity": "confidential",
+            "hotprice": false,
+            "articul": "csskin19",
+            "img": "csskin19.png"
+        },
+        {
+            "price": "2,751.21 ₽",
+            "rarity": "restricted",
+            "hotprice": false,
+            "articul": "csskin20",
+            "img": "csskin20.png"
+        },
+        {
+            "price": "1,468.11 ₽",
+            "rarity": "restricted",
+            "hotprice": false,
+            "articul": "csskin21",
+            "img": "csskin21.png"
+        },
+        {
+            "price": "1,321.15 ₽",
+            "rarity": "restricted",
+            "hotprice": false,
+            "articul": "csskin22",
+            "img": "csskin22.png"
+        },
+        {
+            "price": "1,212.54 ₽",
+            "rarity": "restricted",
+            "hotprice": false,
+            "articul": "csskin23",
+            "img": "csskin23.png"
+        },
+        {
+            "price": "1,121.74 ₽",
+            "rarity": "army",
+            "hotprice": false,
+            "articul": "csskin24",
+            "img": "csskin24.png"
+        },
+        {
+            "price": "594.21 ₽",
+            "rarity": "army",
+            "hotprice": false,
+            "articul": "csskin25",
+            "img": "csskin25.png"
+        },
+        {
+            "price": "165.33 ₽",
+            "rarity": "army",
+            "hotprice": false,
+            "articul": "csskin26",
+            "img": "csskin26.png"
+        }
+    ]
+}
